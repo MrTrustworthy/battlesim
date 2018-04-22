@@ -1,0 +1,21 @@
+<character>
+    <name>Otto</name>
+    <HealthPool>
+        <currentHealth>95</currentHealth>
+        <maxHealth>100</maxHealth>
+        <shielding>0</shielding>
+    </HealthPool>
+    <GridPoint>
+        <Row>FRONT</Row>
+        <Column>CENTER</Column>
+    </GridPoint>
+    <Abilities>
+        <Ability>
+            <Name>StabAbility</Name>
+            <Arguments>
+                <arg>10</arg>
+            </Arguments>
+        </Ability>
+    </Abilities>
+
+</character>
